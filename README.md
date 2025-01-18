@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Mr-Maddy
-- 👀 I’m interested in Web-development
-- 🌱 I’m currently learning Software engineering
+🌟 Full Stack Developer | 5+ years of experience in scalable, efficient web solutions  
 
-<!---
-Mr-Maddy/Mr-Maddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Expertise in:  
+- Frontend: HTML, CSS, AngularJS, JavaScript  
+- Backend: PHP (Laravel), Python (Django), .NET (C# MVC), MERN stack  
+- CMS: WordPress, Shopify  
+
+🎨 Also skilled in UI/UX design and graphic creation (logos, banners, social media posts).  
+
+🌐 Collaborating with clients globally: US, Germany, Australia, and more.  
+
+📩 Connect with me: [techbitzsolution@gmail.com](mailto:techbitzsolution@gmail.com)
